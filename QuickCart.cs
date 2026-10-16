@@ -21,7 +21,7 @@ namespace SkilledCarryWeight {
         internal const string Author = "Searica";
         public const string PluginName = "QuickCart";
         public const string PluginGUID = $"{Author}.Valheim.{PluginName}";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
 
         internal static QuickCart Instance;

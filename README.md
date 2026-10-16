@@ -1,4 +1,4 @@
-# SkilledCarryWeight
+# QuickCart
 Adds a configurable quick attach/detach feature for carts. Uses Jotunn to sync configuration if installed on server.
 
 **Server-Side Info**: This mod does work as a client-side only mod and only needs to be installed on the server if you wish to enforce configuration settings.
