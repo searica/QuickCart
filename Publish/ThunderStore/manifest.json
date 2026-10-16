@@ -1,0 +1,10 @@
+﻿{
+  "name": "QuickCart",
+  "description": "Adds a configurable quick attach/detach feature to carts.",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/sFmGTBYN6n",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
